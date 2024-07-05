@@ -4,6 +4,7 @@ description = "To will the good in the other while pretending like my feelings d
 author = "Justin Napolitano"
 tags = ["life"]
 images = ["images/feature-image.png"]
+categories =['Personal']
 date = "2024-07-04"
 +++
 
