@@ -1,32 +1,40 @@
 ---
 slug: github-love-is-hard
-title: Technical Overview of the love-is-hard Repository Using Markdown and GitHub
+title: Technical Overview of the love-is-hard Repository
 repo: justin-napolitano/love-is-hard
 githubUrl: https://github.com/justin-napolitano/love-is-hard
 generatedAt: '2025-11-23T09:15:44.264557Z'
 source: github-auto
 summary: >-
-  Detailed examination of a personal reflective repository using markdown and GitHub for versioned,
-  textual journaling without software focus.
+  Explore the structure and purpose of the love-is-hard repository, a
+  markdown-based personal reflection on love and human struggle.
 tags:
   - markdown
   - github
   - personal-journal
   - content-management
   - static-site
-seoPrimaryKeyword: love-is-hard repository
+  - git
+  - static site generators
+  - version control
+  - personal documentation
+seoPrimaryKeyword: markdown personal reflections
 seoSecondaryKeywords:
-  - markdown journal
-  - github content
-  - personal reflection
+  - git repository for essays
+  - markdown for journaling
+  - static site content management
+  - version control for writing
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is a personal, reflective journal-like repository using markdown for versioned textual
-  content without software focus, matching the 'personal' family which explicitly includes personal
-  journals and reflections using markdown, with similar example slugs including the exact repo slug
+  The post is a personal, reflective journal-like repository using markdown for
+  versioned textual content without software focus, matching the 'personal'
+  family which explicitly includes personal journals and reflections using
+  markdown, with similar example slugs including the exact repo slug
   'github-love-is-hard'.
+kind: project
+id: github-love-is-hard
 ---
 
 # Technical Overview of the "love-is-hard" Repository
