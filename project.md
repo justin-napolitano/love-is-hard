@@ -1,19 +1,28 @@
 ---
 slug: github-love-is-hard
 id: github-love-is-hard
-title: love-is-hard
+title: 'Exploring Love Through Markdown: A Personal Essay Project'
 repo: justin-napolitano/love-is-hard
 githubUrl: https://github.com/justin-napolitano/love-is-hard
 generatedAt: '2025-11-24T21:35:32.367Z'
 source: github-auto
 summary: >-
-  A reflective personal project exploring themes of love, connection, and
-  existential struggle through written narrative. This repository contains a
-  single markdown document presenting a candid, introspective essay.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A markdown-based project featuring an introspective essay on love and human
+  experience, structured for easy reading.
+tags:
+  - markdown
+  - personal project
+  - introspective writing
+  - essay
+  - git
+seoPrimaryKeyword: markdown personal essay
+seoSecondaryKeywords:
+  - reflective writing
+  - git repository
+  - markdown viewer
+  - essay structure
+  - future work roadmap
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
