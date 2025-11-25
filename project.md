@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/love-is-hard
 generatedAt: '2025-11-24T21:35:32.367Z'
 source: github-auto
 summary: >-
-  This project features a markdown essay reflecting on love and human
-  experience, structured for easy reading and potential reuse.
+  This project features a markdown essay reflecting on love and human experience, structured for
+  easy reading and potential reuse.
 tags:
   - markdown
   - personal project
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - personal reflection
   - writing repository
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -81,4 +81,5 @@ love-is-hard/
 ---
 
 This project currently serves as a personal reflective writing repository and is not a software application or library.
+
 
